@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-My GitHub Repo
+My Frst GitHub Repo
